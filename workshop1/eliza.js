@@ -106,9 +106,9 @@ var rules = {
     "What makes you happy just now?",
     "Can you explain why you are suddenly ~y?",
   ],
-  "~*x I am sad ~*y": [
-    "I am sorry to hear you are depressed",
-    "I'm sure it's not pleasant to be sad",
+  "~*x I am happy ~*y": [
+    "I would say you should always be happy",
+    "I'm sure it's pleasant to be happy",
   ],
   "~*x are like ~*y": [
     "What resemblence do you see between ~x and ~y?",
